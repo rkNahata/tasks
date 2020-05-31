@@ -1,0 +1,8 @@
+
+{
+	"ServerPort": ":8085",
+	"DBDriver": "mysql",
+	"DBUser": "root",
+	"Schema": "tasks"
+}
+
